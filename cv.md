@@ -6,3 +6,26 @@
 
 ## A few words about me
 I am a hardworking and active person who is ready to learn and develop. I like to develop websites, in my opinion, this is what I would like to connect my life with.
+
+*********************
+
+## Skills
+* HTML5
+* CSS3
+* SASS(SCSS)
+* BEM
+* VS CODE
+* FIGMA
+
+*********************
+
+## Education 
+* MRC
+Diploma of vocational education in electronics
+
+*********************
+
+## Languages
+* English - A2 - B1
+* Belorussian - native
+* Russian - native
